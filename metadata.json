@@ -1,0 +1,9 @@
+{
+  "name": "Community Health AI Assistant",
+  "description": "An offline-first AI-powered health assistant for community health workers to diagnose, triage, and detect disease outbreaks.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
