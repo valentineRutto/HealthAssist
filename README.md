@@ -1,10 +1,6 @@
+# An offline-first AI health assistant that helps community health workers diagnose, triage, and dete outbreaks in real time—even without internet.
 
-# Run app
-**Prerequisites:**  Node.js
+# Live App
 
+[Community Health AI Assistant](https://community-health-ai-assistant-1087193020080.us-west1.run.app)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
