@@ -1,4 +1,4 @@
-# An offline-first AI health assistant that helps community health workers diagnose, triage, and dete outbreaks in real time—even without internet.
+# An offline-first AI health assistant that helps community health workers diagnose, triage, and detect outbreaks in real time—even without internet.
 
 # Live App
 
